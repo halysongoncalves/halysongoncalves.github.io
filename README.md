@@ -1,4 +1,4 @@
-Halyson Gonçalves Portfólio
+Halyson Gonçalves Portfolio
 ============================
 
 A simple portal that describes the static designs ever developed.
